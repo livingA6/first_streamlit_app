@@ -1,4 +1,4 @@
-#hello world!
-import streamlit
-streamlit.title('aquaLung, motherFucker')
-streamlit.text('a minor 5th is made of phantoms')
+streamlit.header( 'Breakfast Favorites")
+streamlit.text(' Omega 3 & Blueberry Oatmeal') streamlit. text ('03 Kale, Spinach & Rocket Smoothie') streamlit.text ('« Hard-Boiled Free-Range Egg')
+streamlit.text('S
+Avocado Toast')
